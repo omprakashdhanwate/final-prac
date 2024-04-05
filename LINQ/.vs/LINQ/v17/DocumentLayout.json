@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Dot.net\\ASSIGNMENTS_MAIN\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C55C380-E575-4AD5-A31E-6C0DC2B0C7EC}|LINQ\\LINQ.csproj|z:\\dot.net\\assignments_main\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C55C380-E575-4AD5-A31E-6C0DC2B0C7EC}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Dot.net\\ASSIGNMENTS_MAIN\\LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "Z:\\Dot.net\\ASSIGNMENTS_MAIN\\LINQ\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAuwFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T04:42:26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

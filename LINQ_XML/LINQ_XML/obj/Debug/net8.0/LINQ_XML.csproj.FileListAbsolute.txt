@@ -1,0 +1,14 @@
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\bin\Debug\net8.0\LINQ_XML.exe
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\bin\Debug\net8.0\LINQ_XML.deps.json
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\bin\Debug\net8.0\LINQ_XML.runtimeconfig.json
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\bin\Debug\net8.0\LINQ_XML.dll
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\bin\Debug\net8.0\LINQ_XML.pdb
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\LINQ_XML.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\LINQ_XML.AssemblyInfoInputs.cache
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\LINQ_XML.AssemblyInfo.cs
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\LINQ_XML.csproj.CoreCompileInputs.cache
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\LINQ_XML.dll
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\refint\LINQ_XML.dll
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\LINQ_XML.pdb
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\LINQ_XML.genruntimeconfig.cache
+Z:\Dot.net\ASSIGNMENTS_MAIN\LINQ_XML\LINQ_XML\obj\Debug\net8.0\ref\LINQ_XML.dll
