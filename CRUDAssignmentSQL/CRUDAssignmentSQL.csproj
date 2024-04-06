@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2832B35B-320D-4A53-8BF2-7B166D9121FC}</ProjectGuid>
+    <ProjectGuid>{85EDC983-FC15-402E-A58D-9A5E9EEEDD81}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CRUD_Oprations</RootNamespace>
-    <AssemblyName>CRUD_Oprations</AssemblyName>
+    <RootNamespace>CRUDAssignmentSQL</RootNamespace>
+    <AssemblyName>CRUDAssignmentSQL</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -57,10 +57,15 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>masterDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="masterDataSet11.Designer.cs">
+    <Compile Include="masterDataSet1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>masterDataSet11.xsd</DependentUpon>
+      <DependentUpon>masterDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="masterDataSet202.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>masterDataSet202.xsd</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -87,16 +92,27 @@
     <None Include="masterDataSet.xss">
       <DependentUpon>masterDataSet.xsd</DependentUpon>
     </None>
-    <None Include="masterDataSet11.xsc">
-      <DependentUpon>masterDataSet11.xsd</DependentUpon>
+    <None Include="masterDataSet1.xsc">
+      <DependentUpon>masterDataSet1.xsd</DependentUpon>
     </None>
-    <None Include="masterDataSet11.xsd">
+    <None Include="masterDataSet1.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>masterDataSet11.Designer.cs</LastGenOutput>
+      <LastGenOutput>masterDataSet1.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="masterDataSet11.xss">
-      <DependentUpon>masterDataSet11.xsd</DependentUpon>
+    <None Include="masterDataSet1.xss">
+      <DependentUpon>masterDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="masterDataSet202.xsc">
+      <DependentUpon>masterDataSet202.xsd</DependentUpon>
+    </None>
+    <None Include="masterDataSet202.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>masterDataSet202.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="masterDataSet202.xss">
+      <DependentUpon>masterDataSet202.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -110,6 +126,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

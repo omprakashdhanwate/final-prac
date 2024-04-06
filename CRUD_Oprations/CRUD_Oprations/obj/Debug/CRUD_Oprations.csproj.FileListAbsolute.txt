@@ -1,0 +1,11 @@
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\bin\Debug\CRUD_Oprations.exe.config
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\bin\Debug\CRUD_Oprations.exe
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\bin\Debug\CRUD_Oprations.pdb
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\obj\Debug\CRUD_Oprations.csproj.AssemblyReference.cache
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\obj\Debug\CRUD_Oprations.csproj.SuggestedBindingRedirects.cache
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\obj\Debug\CRUD_Oprations.Form1.resources
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\obj\Debug\CRUD_Oprations.Properties.Resources.resources
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\obj\Debug\CRUD_Oprations.csproj.GenerateResource.cache
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\obj\Debug\CRUD_Oprations.csproj.CoreCompileInputs.cache
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\obj\Debug\CRUD_Oprations.exe
+Z:\C#_Practicals\final-prac\CRUD_Oprations\CRUD_Oprations\obj\Debug\CRUD_Oprations.pdb

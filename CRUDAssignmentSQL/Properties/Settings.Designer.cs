@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CRUD_Oprations.Properties {
+namespace CRUDAssignmentSQL.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -26,7 +26,7 @@ namespace CRUD_Oprations.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MSCCS30;Initial Catalog=master;User ID=sa;Password=sql2024")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MSCCS27;Initial Catalog=master;User ID=sa;Password=sql2024")]
         public string masterConnectionString {
             get {
                 return ((string)(this["masterConnectionString"]));
@@ -36,10 +36,10 @@ namespace CRUD_Oprations.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MSCCS01;Initial Catalog=master;User ID=sa;Password=sql2024")]
-        public string masterConnectionString1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MSCCS15;Initial Catalog=master;User ID=sa;Password=sql2024")]
+        public string masterConnectionString101 {
             get {
-                return ((string)(this["masterConnectionString1"]));
+                return ((string)(this["masterConnectionString101"]));
             }
         }
     }
